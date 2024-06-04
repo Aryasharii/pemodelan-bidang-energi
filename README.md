@@ -18,17 +18,17 @@ Model Lotka-Volterra digunakan untuk memodelkan kompetisi antara dua produsen mo
 
 ## Hasil Penelitian dan Pembahasan
 ### Data Penjualan Mobil Tahunan
-![Gambar 1](path/to/image1)  
+![Gambar 1](https://github.com/Aryasharii/pemodelan-bidang-energi/blob/tubes/image/image1.png)  
 *Gambar 1. Data penjualan mobil tahunan untuk produsen pertama*
 
-![Gambar 2](path/to/image2)  
+![Gambar 2](https://github.com/Aryasharii/pemodelan-bidang-energi/blob/tubes/image/image2.png)  
 *Gambar 2. Data penjualan mobil tahunan untuk produsen kedua*
 
 ### Hasil Prediksi Model
-![Gambar 3](path/to/image3)  
+![Gambar 3](https://github.com/Aryasharii/pemodelan-bidang-energi/blob/tubes/image/image3.png)  
 *Gambar 3. Perbandingan hasil prediksi model dan data produsen pertama*
 
-![Gambar 4](path/to/image4)  
+![Gambar 4](https://github.com/Aryasharii/pemodelan-bidang-energi/blob/tubes/image/image4.png)  
 *Gambar 4. Perbandingan hasil prediksi model dan data produsen kedua*
 
 ### Tabel Nilai Parameter
